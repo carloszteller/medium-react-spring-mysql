@@ -164,7 +164,7 @@ export default function AddEmployee() {
 
             <Grid container justify="center">
                 <Grid item>
-                <Link to="/view">View Employee Records</Link>
+                <Link to="/employees">View Employee Records</Link>
                 </Grid>
             </Grid>
             </form>
