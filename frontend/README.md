@@ -1,3 +1,11 @@
+## Medium Tutorial - React, Spring Boot and MySQL webapp!
+
+This React/Spring Boot/MySQL application is from a Medium.com tutorial I followed to learn how ot incorporate React and Spring Boot. Somee modifications have been made: mainly the use of JpaRespository over DAO. The tutorial can be found at:
+
+[https://medium.com/@mukundmadhav/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600](https://medium.com/@mukundmadhav/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
